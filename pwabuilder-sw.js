@@ -6,7 +6,9 @@ self.oninstall=function(){
       '/',
         'index.html',
         'about.html',
-        'contact.html'
+        'contact.html',
+        'styles/hotel.css',
+        'mobil.css'
 
     ])
     .then(function(){
